@@ -18,6 +18,10 @@
     "dev-server": "nodemon app.js",
     "start": "node app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mr-chidex/Currency-Rate-API.git"
+  },
   "keywords": [
     "currency",
     "rates",
