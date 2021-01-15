@@ -1,0 +1,5 @@
+{"level":"error","message":"Cannot read property 'toUpperCase' of undefined","timestamp":"2021-01-15T21:04:09.400Z"}
+{"level":"error","message":"Incorrect locale information provided","timestamp":"2021-01-15T21:17:38.020Z"}
+{"level":"error","message":"(intermediate value).now is not a function","timestamp":"2021-01-15T21:21:26.077Z"}
+{"level":"error","message":"Date(...).now is not a function","timestamp":"2021-01-15T21:21:50.043Z"}
+{"level":"error","message":"(intermediate value).toISODateString is not a function","timestamp":"2021-01-15T21:26:34.545Z"}
